@@ -1,0 +1,6 @@
+C:\Users\T.Robert'sLPL\Desktop\trwCh13Ex07\trwCh13Ex07\bin\Debug\trwCh13Ex07.exe.config
+C:\Users\T.Robert'sLPL\Desktop\trwCh13Ex07\trwCh13Ex07\bin\Debug\trwCh13Ex07.exe
+C:\Users\T.Robert'sLPL\Desktop\trwCh13Ex07\trwCh13Ex07\bin\Debug\trwCh13Ex07.pdb
+C:\Users\T.Robert'sLPL\Desktop\trwCh13Ex07\trwCh13Ex07\obj\Debug\trwCh13Ex07.csprojResolveAssemblyReference.cache
+C:\Users\T.Robert'sLPL\Desktop\trwCh13Ex07\trwCh13Ex07\obj\Debug\trwCh13Ex07.exe
+C:\Users\T.Robert'sLPL\Desktop\trwCh13Ex07\trwCh13Ex07\obj\Debug\trwCh13Ex07.pdb
